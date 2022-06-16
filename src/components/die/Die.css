@@ -1,0 +1,11 @@
+.die {
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 4px #07060626;
+  /* background-color: antiquewhite; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
